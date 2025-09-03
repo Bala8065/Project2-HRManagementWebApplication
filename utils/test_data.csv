@@ -1,0 +1,5 @@
+username,password,valid
+Admin,admin123,True
+Admin,wrongpass,False
+invalidUser,admin123,False
+, ,False
