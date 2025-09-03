@@ -1,4 +1,4 @@
-# OrangeHRM – Selenium Python POM + Pytest + Allure (macOS)
+# HR management web application – Selenium Python POM + Pytest + Allure
 
 This repository contains a complete Page Object Model (POM) test automation framework for
 the OrangeHRM demo site: https://opensource-demo.orangehrmlive.com
